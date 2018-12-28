@@ -1,2 +1,0 @@
-# datascience
-Machine Learning
